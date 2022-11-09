@@ -16,7 +16,7 @@ class App:
         # setting title
         root.title("undefined")
         # setting window size
-        width = 600
+        width = 650
         height = 500
         screenwidth = root.winfo_screenwidth()
         screenheight = root.winfo_screenheight()
